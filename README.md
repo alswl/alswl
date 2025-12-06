@@ -2,8 +2,6 @@
 
 💻 🐵 Coding Monkey
 
-![alswl's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswl)
-
 Connect me with Wechat：
 
 ```
